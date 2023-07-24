@@ -1,0 +1,9 @@
+{
+  "navigationBarTitleText": "add",
+  "navigationBarBackgroundColor": "#ccc",
+  "enablePullDownRefresh": false,
+  "usingComponents": {
+    "uni-file-picker": "/uni_modules/uni-file-picker/components/uni-file-picker/uni-file-picker",
+    "uni-icons": "/uni_modules/uni-icons/components/uni-icons/uni-icons"
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "name": "addNews",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

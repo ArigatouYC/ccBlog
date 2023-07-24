@@ -1,0 +1,7 @@
+{
+  "name": "deleteNews",
+  "dependencies": {},
+  "extensions": {
+    "uni-cloud-jql": {}
+  }
+}

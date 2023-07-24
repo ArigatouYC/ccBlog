@@ -1,0 +1,24 @@
+
+.title.data-v-3e159eb4,.content.data-v-3e159eb4,.author.data-v-3e159eb4,.time.data-v-3e159eb4  {
+	padding: 10rpx 25rpx;
+}
+.title.data-v-3e159eb4 {
+	font-size: 50rpx;
+}
+.author.data-v-3e159eb4 {
+	color: #999;
+}
+button.data-v-3e159eb4 {
+	margin: 15rpx;
+}
+.img.data-v-3e159eb4{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+}
+.imgItem.data-v-3e159eb4{
+	padding: 5rpx;
+	width: 220rpx;
+	height: 220rpx;
+}
+

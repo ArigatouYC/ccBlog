@@ -1,0 +1,20 @@
+
+.upload.data-v-0fa9cb46 {
+	background-color: #2B9939;
+	margin-top: 20rpx;
+	color: #fff;
+}
+.reset.data-v-0fa9cb46 {
+	background-color: #F56C6C;
+	margin-top: 20rpx;
+	color: #fff;
+}
+input.data-v-0fa9cb46 {
+	border: 1px solid #999;
+}
+textarea.data-v-0fa9cb46 {
+	border: 1px solid #999;
+	width: 100%;
+	box-sizing: border-box;
+}
+
